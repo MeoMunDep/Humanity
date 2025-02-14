@@ -1,0 +1,2 @@
+# Humanity-protocol
+Auto faucet.
