@@ -101,7 +101,7 @@ _Note: Each row for each account_
 ### 3. `proxies.txt` - 🌐 Proxy List (Optional)
 
 If you are using proxies, add them here. Leave the file blank if you are not using proxies. Supported formats:
-
+And if you don't have any proxy, just set the time between accounts to about 35 seconds and run one account at a time.
 ```txt
 http://user:password@host:port
 https://user:password@host:port
